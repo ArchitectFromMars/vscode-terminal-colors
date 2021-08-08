@@ -13,6 +13,7 @@ Tools and software I used...
 * PowerShell 7.1
 * VS Code extension "jshint" (version 0.11.0)
 * basic understanding of javascript variables (var, let, const)
+* a brain the size of Texas
 
 ## What it does
 It's a Javascript Module that allows you to add custom colors (limited to about 7-9) to your console. Import it as a module for any of your javascript testing projects.
