@@ -4,6 +4,8 @@
 
 Download the **UTILITY__colors.mjs** file, or view the raw code here in GitHub and copy/paste into your own file.
 
+<img src="img/sample.jpg">
+
 ## What it does
 It's a Javascript Module that allows you to add custom colors (limited to about 7-9) to your console. Import it as a module for any of your javascript testing projects.
 
