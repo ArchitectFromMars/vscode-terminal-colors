@@ -1,7 +1,6 @@
 # VS Code terminal colors
 
 <img src="img/sample.jpg">
-(special shout out to Terri... hi, Terri!)
 
 Download the **UTILITY__colors.mjs** file, or view the raw code here in GitHub and copy/paste into your own file.
 
@@ -12,9 +11,10 @@ To modify the code and change the colors or the name of the color function, watc
 
 ## YouTube Explanation
 
-Watch me [here](https://youtu.be/xld2WO09wRk). There is a sample project, which sparks your imagination to begin using console colors to visually see differences in your js testing.
+Watch me <a href="https://youtu.be/xld2WO09wRk" target="_blank">here</a>. There is a sample project, which sparks your imagination to begin using console colors to visually see differences in your js testing.
 
 As always, happy coding!
 
 — freddy
 
+P.S. (special shout out to Terri... hi, Terri!)
